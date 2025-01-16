@@ -164,10 +164,12 @@
 }
 /* section4 */
 .section-4{
-    margin: 100px 1200px;
+    display: flex;
     justify-content: center;
+    align-items: center;
 }
 .sub-section-4{
     height: 651px;
     width: 424px;
+    box-shadow: 1px 1px 5px rgb(192, 192, 243);
     }
